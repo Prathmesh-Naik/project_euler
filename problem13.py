@@ -103,5 +103,4 @@ n = [i for i in n.split('\n')]
 res = 0
 for i in n:
     res += int(i)
-
 print(str(res)[:10])
