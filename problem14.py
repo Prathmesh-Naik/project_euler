@@ -1,3 +1,5 @@
+# Longest Collatz Sequence
+
 max_count = [0,0]
 i = 13
 
